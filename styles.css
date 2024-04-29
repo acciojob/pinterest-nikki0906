@@ -29,4 +29,5 @@ body {
     transition: background-color 0.3s ease;
   }
   .btn-explore:hover {
-    backgrou
+     background-color: #c62828;
+  }
